@@ -1,0 +1,11 @@
+gabriel1.txt
+gabriel2.txt
+gabriel3.txt
+gabrielsantana26/
+instrucoes.txt
+log/
+pasta
+pasta1/
+pasta2/
+pasta3/
+trab1-2017.txt
